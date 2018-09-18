@@ -1,2 +1,2 @@
 # Python
-Collection of random Python projects.
+Collection of personal Python projects
